@@ -1,0 +1,12 @@
+{
+  "filtering_data.json": {
+    "message_filtering": {
+      "profanity_words": ["bad", "rude", "inappropriate"],
+      "spam_threshold": 5
+    },
+    "content_filtering": {
+      "image_formats": ["png", "jpg", "jpeg"],
+      "video_formats": ["mp4", "avi", "mov"]
+    }
+  }
+}
