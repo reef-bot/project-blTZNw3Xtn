@@ -1,0 +1,11 @@
+{
+  "moderation_bot": {
+    "permissions_data.json": {
+        "permissions": {
+            "admin_role": "Admin",
+            "moderator_role": "Moderator",
+            "member_role": "Member"
+        }
+    }
+  }
+}
