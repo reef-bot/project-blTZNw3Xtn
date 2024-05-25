@@ -1,0 +1,4 @@
+# moderation_bot/requirements.txt
+
+# Required packages for the moderation bot
+discord.py
